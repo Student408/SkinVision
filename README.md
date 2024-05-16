@@ -51,21 +51,7 @@ Run the provided Jupyter Notebook or Python script to:
 
 ## Results
 
-The trained model achieves an accuracy of X% on the test dataset. Confusion matrices and ROC AUC curves are provided to evaluate the model's performance.
-
-## Sample Prediction
-
-To demonstrate the model's usage, here's a sample prediction:
-
-![Sample Prediction](/images/sample_prediction.png)
-
-Predicted class: Melanoma
-Confidence: 85.3%
-Confidence with respect to other classes:
-- BCC: 10.2%
-- Nevus: 3.8%
-- Benign Keratosis: 0.5%
-- No Cancer: 0.2%
+The trained model achieves an accuracy of 88% on the test dataset. Confusion matrices and ROC AUC curves are provided to evaluate the model's performance.
 
 ## Contributing
 
