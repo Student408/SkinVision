@@ -27,8 +27,9 @@ The dataset used for training and testing the model can be obtained from the [IS
 ## Pre-processed datasets
 You can download the pre-processed datasets and test/train .npy files by clicking the link below:
 
-[![Google Drive](https://upload.wikimedia.org/wikipedia/commons/1/1e/Google_Drive_icon_%282020%29.svg)](https://drive.google.com/drive/folders/1iOGMT4Ni147eaojIak33XPBieCgCP6n0?usp=sharing)
-
+<a href="https://drive.google.com/drive/folders/1iOGMT4Ni147eaojIak33XPBieCgCP6n0?usp=sharing" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" alt="Google Drive" width="40" height="40"/>
+</a>
 
 ## Pre-requisites
 
