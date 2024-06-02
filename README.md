@@ -56,7 +56,10 @@ The trained model achieves an accuracy of 88% on the test dataset. Confusion mat
 
 ## Google Colab Notebook
 
-<a href="https://colab.research.google.com/github/Student408/SkinVision/blob/main/SkinVision%20Deep%20Learning%20for%20Skin%20Cancer%20Identification.ipynb" target="_blank" rel="noopener noreferrer"><img align="left" alt="Kaggle" title="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg" /></a><br/>
+<a href="https://colab.research.google.com/github/Student408/SkinVision/blob/main/SkinVision%20Deep%20Learning%20for%20Skin%20Cancer%20Identification.ipynb" target="_blank">
+  <img align="left" alt="Colab" title="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg" />
+</a> <br/>
+
 ## Contributing
 
 Contributions to this project are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
