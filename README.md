@@ -27,7 +27,8 @@ The dataset used for training and testing the model can be obtained from the [IS
 ## Pre-requisites
 
 1. Download the dataset from [ISIC Challenge](https://challenge.isic-archive.com/data).
-2. Download the pre-trained MobileNetV2 model weights.
+2. [Image Labeling](https://github.com/Student408/Image-labeling) save it in .npy
+3. Download the pre-trained MobileNetV2 model weights.
 
 ## Usage
 
