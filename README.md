@@ -24,6 +24,12 @@ Skin cancer is one of the most common types of cancer globally, and early detect
 
 The dataset used for training and testing the model can be obtained from the [ISIC Challenge](https://challenge.isic-archive.com/data).
 
+## Pre-processed datasets
+You can download the pre-processed datasets and test/train .npy files by clicking the link below:
+
+[![Google Drive](https://upload.wikimedia.org/wikipedia/commons/1/1e/Google_Drive_icon_%282020%29.svg)](https://drive.google.com/drive/folders/1iOGMT4Ni147eaojIak33XPBieCgCP6n0?usp=sharing)
+
+
 ## Pre-requisites
 
 1. Download the dataset from [ISIC Challenge](https://challenge.isic-archive.com/data).
