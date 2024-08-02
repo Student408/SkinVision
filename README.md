@@ -34,8 +34,9 @@ You can download the pre-processed datasets and test/train .npy files by clickin
 ## Pre-requisites
 
 1. Download the dataset from [ISIC Challenge](https://challenge.isic-archive.com/data).
-2. [Image Labeling](https://github.com/Student408/Image-labeling) save it in .npy
-3. Download the pre-trained MobileNetV2 model weights.
+2. Data segregation [notebook](https://github.com/wisdomml2020/skin_cancer_classification_transfer_learning).
+3. [Image Labeling](https://github.com/Student408/Image-labeling) save it in .npy
+4. Download the pre-trained MobileNetV2 model weights.
 
 ## Usage
 
